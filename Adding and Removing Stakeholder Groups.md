@@ -88,8 +88,8 @@ needs.
 -   (Board members alone could decide.)
 
 -   Board members could pass a resolution that would then be opened to some vote
-    by the public. When a board decision is made, a vote is opened to the stakeholder
-    groups in a *universal ballot*\*\*
+    by the public. Once decided by the board, a vote is opened to the
+    stakeholder groups in a *universal ballot*\*\*
 
     -   Some minimum amount of support would be needed to pass the resolution.
 
@@ -162,9 +162,6 @@ needs.
 
 -   Any stakeholder-led referendum will need to get some minimum amount of
     support in its local stakeholder group.
-
--    Only select, high-impact and prespecified board decisions will also have 
-    to be considered in a universal ballot.
 
 **Software Considerations**
 
