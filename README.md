@@ -1,5 +1,4 @@
 # Distributed-Collaborative-Entity
-Open Source Governance
 
 
  This repository will follow the development of the Blockchains new corporate governance model, the distributed collaborative entity (DCE).  For an introduction to our mission, please read the "Intro Blog Post" document.
