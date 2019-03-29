@@ -44,7 +44,7 @@ that status?**
 >   power. They also might receive some amount of the company’s profits. This
 >   gives formal representation to stakeholders so that they can speak to the
 >   interests of their group, and negotiate with other groups for the benefit of
->   all. To lose formally represented stakeholder status
+>   all. 
 
 **Why might we remove a stakeholder group?**
 
@@ -53,7 +53,7 @@ that status?**
 
 -   Irreconcilable differences – They just don’t want to be together anymore.
 
--   They have broken some rule of the organization laid out in the (fortcoming)
+-   They have broken some rule of the organization laid out in the (forthcoming)
     bylaws/manifesto/constitution\* in a significant enough way as to warrant
     booting.
 
