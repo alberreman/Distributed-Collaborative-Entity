@@ -37,14 +37,13 @@ needs.
 >   represented at the board level without a formalized stakeholder group is to
 >   be determined by technical, legal, and practical considerations.
 
-**What does it mean to be a formally represented stakeholder group, and to lose
-that status?**
+**What does it mean to be a formally represented stakeholder group?**
 
 >   Formally represented stakeholder groups have board representation and voting
 >   power. They also might receive some amount of the company’s profits. This
 >   gives formal representation to stakeholders so that they can speak to the
 >   interests of their group, and negotiate with other groups for the benefit of
->   all. 
+>   all.
 
 **Why might we remove a stakeholder group?**
 
@@ -53,7 +52,7 @@ that status?**
 
 -   Irreconcilable differences – They just don’t want to be together anymore.
 
--   They have broken some rule of the organization laid out in the (forthcoming)
+-   They have broken some rule of the organization laid out in the (fortcoming)
     bylaws/manifesto/constitution\* in a significant enough way as to warrant
     booting.
 
@@ -67,6 +66,9 @@ that status?**
 **Why might we want to add a stakeholder group?**
 
 -   a community significantly affected by the DCE is not being represented
+
+-   some group is significantly aiding the success of the DCE that is not being
+    represented
 
 **Ways You Could Feasibly Decide to Remove or Add a Stakeholder Group:**
 
@@ -92,23 +94,19 @@ that status?**
         -   Of the total people who do vote, a decision is made based on their
             majority or super majority position.
 
-    -   *//Or: There would be a threshold for maximum amount of dissent*
+    -   *Or there would be some maximum allowable dissent. Three ways:*
 
-        -   This could be done two ways: maximum dissent of participating
-            voters. Ex: No more than 20% of voters can reject the proposal. If
-            there is an 50% voter turnout, up to X-1 % of those voting can
-            reject the proposal. Or, no stakeholder group can have more than
-            some percentage of opposition.
+        -   *Maximum dissent of participating voters. Ex: No more than 20% of
+            votes can be in opposition to the proposal.*
 
-            -   Maybe it’s 2/3 majority of the voting participants to overturn
-                the board. Get all US government on this shit.
+            -   *Maybe it’s 2/3 majority of the voting participants to overturn
+                the board. Get all US government on this shit.*
 
-        -   //OR: maximum allowable dissent expressed of total voting-eligible
-            population/reputation. Ex: No more than X% of total existing
-            reputation can be staked against a proposal. No more than 20% of
-            **POTENTIAL** voters can reject the proposal. If 20% of reputation
-            is staked behind a refusal, the proposal is rejected even if there
-            is 100% voter turnout and 80% accept the proposal.
+        -   *No stakeholder group can have more than some percentage of
+            opposition.*
+
+        -   *Maximum allowable dissent expressed of total voting-eligible
+            population/reputation, not percentage of total voters.*
 
             -   This seems well suited to a system with low voter participation,
                 since the people most likely to vote are those who dissent,
