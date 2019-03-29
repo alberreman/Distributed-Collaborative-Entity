@@ -52,14 +52,16 @@ needs.
 
 -   Irreconcilable differences – They just don’t want to be together anymore.
 
--   They have broken some rule of the organization laid out in the (fortcoming)
+-   They have broken some rule of the organization laid out in the (forthcoming)
     bylaws/manifesto/constitution\* in a significant enough way as to warrant
     booting.
 
->   \*Universal mechanism to add and remove stakeholder reputation. Do not think
->   Colony can currently do this. What if there were separate colonies, not just
->   one colony, so that once a group was barred from the board they’d be cut off
->   from funding. Makes the democracy less direct, but allows greater
+>   \*Some mechanism for immediately removing a group or person from the DCE,
+>   not phasing them out. Potentially a universal mechanism to add and remove
+>   stakeholder reputation, to diminish their voting power. Colony cannot
+>   currently do this. DAOstack can. What if there were separate colonies, not
+>   just one colony, so that once a group was barred from the board they’d be
+>   cut off from funding. Makes the democracy less direct, but allows greater
 >   flexibility in governance models between groups, and more ease in adding and
 >   removing groups.
 
@@ -192,11 +194,12 @@ possible that no blockchain-based solution is necessary for the board.
 **A metacolony** -
 
 >   Head of/attached to all colonies. Booting people from the board or
->   organization would be less straight forward, but possible. You could just
->   make each SH group tagged with some \#skill, and then if one SH group was
->   removed, all future votes would just not include that \#skill in the vote,
->   and no longer distribute \$ to that group. Reputation would just slowly
->   decay over time. You could also just slowly phase a SH group out by not
->   removing them from board-level votes, but instead just stop funding them. It
->   is unclear if a metacolony could have representative governance – certainly
->   not as the tech stands now, but this may or may not be changeable.
+>   organization would be less straight forward, but possible. Maybe you could
+>   tag each SH group with some \#skill, and then if one SH group was removed,
+>   all future votes would just not include that \#skill in the vote, and no
+>   longer distribute \$ to that group. (Probably not currently possible with
+>   Colony, not sure if it is something you could change.) Reputation would just
+>   slowly decay over time. You could also just slowly phase a SH group out by
+>   not removing them from board-level votes, but instead just stop funding
+>   them. It is unclear if a metacolony could have representative governance –
+>   certainly not as the tech stands now, but this may or may not be changeable.
