@@ -120,7 +120,7 @@ needs.
 >   **Stakeholder-led**
 
 -   Member of a SH group could also introduce a referendum, which is then voted
-    on within that SH group. If it has some amount of support, then the issue is
+    on within that SH group. If it has some amount of support:
 
     -   The proposal is considered by the board. The board votes. If the board
         accepts the proposal, a vote is opened to the whole DCE. Barring 2/3
