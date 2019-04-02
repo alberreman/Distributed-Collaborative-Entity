@@ -59,7 +59,7 @@ needs.
 >   \*Some mechanism for immediately removing a group or person from the DCE,
 >   not phasing them out. Potentially a universal mechanism to add and remove
 >   stakeholder reputation, to diminish their voting power. Colony cannot
->   currently do this. DAOstack can. What if there were separate colonies, not
+>   currently do this, though there may be domain-specific permissions allowing for effectively the same thing. DAOstack can. What if there were separate colonies, not
 >   just one colony, so that once a group was barred from the board they’d be
 >   cut off from funding. Makes the democracy less direct, but allows greater
 >   flexibility in governance models between groups, and more ease in adding and
