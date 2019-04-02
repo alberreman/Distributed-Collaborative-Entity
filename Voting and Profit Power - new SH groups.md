@@ -1,4 +1,4 @@
-**Big Burning Question:**
+**Big Burning Questions:**
 
 What happens to VP and PS when a SH group is added or removed?
 
@@ -140,20 +140,21 @@ the board’s number and the number in the selected range closest to the board�
 When deciding how much voting power a new stakeholder group should get, board
 members should consider:
 
-The degree to which the group is affected by the success of the DCE
+-   The degree to which the group is affected by the success of the DCE
 
-Any expertise or special knowledge that might make this group more adept at
-realizing certain outcomes
+-   Any expertise or special knowledge that might make this group more adept at
+    realizing certain outcomes
 
->   How the inclusion of the new group will affect the overall balance of power
->   within the DCE (you don’t want to give any one group majority vote, or any
->   two groups that align but whose interests are aligned but
->   antagonistic/competitive with the other groups).
+-   How the inclusion of the new group will affect the overall balance of power
+    within the DCE (you don’t want to give any one group majority vote, or any
+    two groups that align but whose interests are aligned but
+    antagonistic/competitive with the other groups).
 
 When deciding what their right to profits might be, board members should
 consider:
 
-Does this group have collective interests that they could use money to advance
-together?
+-   Does this group have collective interests that they could use money to
+    advance together?
 
-To what extent does this group advance the financial interests of the company?
+-   To what extent does this group advance the financial interests of the
+    company?
