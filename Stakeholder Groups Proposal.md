@@ -20,7 +20,7 @@ company.
 
 -   Smart city residents
 
--   Collaborative partners like NV Energy, Tesla, DISH, etc
+-   Collaborative partners / other businesses
 
 Formalizing Stakeholder Groupings
 =================================
