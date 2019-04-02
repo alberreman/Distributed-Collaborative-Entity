@@ -1,4 +1,4 @@
-**Big Burning Questions:**
+**Big Burning Question:**
 
 What happens to VP and PS when a SH group is added or removed?
 
