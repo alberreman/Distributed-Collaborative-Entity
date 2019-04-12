@@ -12,7 +12,7 @@ projects with collaborative entities:
 -   Technological systems are first and foremost human systems, and as such
     should be built to best enable a freer, more open and fair future.
 
--   Individuals should have input in the development of systems, technological or
+-   Individuals should have input in the development and design of systems, technological or
     otherwise, that affect them.
 
 -   Individuals have a right to accessible, verifiable information. In this
