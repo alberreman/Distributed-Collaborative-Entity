@@ -1,4 +1,5 @@
-<b> An aspirational document // A proposed set of values for collaborative partnerships. </b>
+<b> A proposed set of values for collaborative partnerships. </b>
+
 
 The success of every company is a collaborative effort enabled by overlapping,
 cooperating, and competitive communities of stakeholders. Blockchains is
