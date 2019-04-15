@@ -1,5 +1,6 @@
 **List of action-items, roughly ordered-ish: A “roadmap”**
 
+
 **On-Chain Decision-Making // Aragon Play DAO**
 
 Purpose: employee preference signaling, collaborative decision-making, web 3
@@ -29,6 +30,7 @@ Ordered action items:
 
 -   Can we use this system for actual money and more meaningful decisions?
 
+
 **Bill of Rights**
 
 **Purpose:** Define what the rights of customers, employees, collaborative
@@ -48,6 +50,7 @@ Internal: Rebekah, Jeff, Christoph, CLD, Berns, company-wide forum
 
 -   Submit to Jeff
 
+
 **Decision Tree**
 
 **Purpose:** Define the range of decisions that must be made, who might be
@@ -65,6 +68,7 @@ Internal: Rebekah or Jeff
 -   Draft, feedback, revise
 
 -   Add to larger document
+
 
 **Reputation System Pilot**
 
@@ -95,6 +99,7 @@ External: UNR business/HR/social sciences/sociology/applied anthropology
 
 -   Refine system, repeat
 
+
 **Define stakeholder group-level reputation protocol**
 
 **Purpose**: the amount of say a stakeholder group has in board-level decisions
@@ -122,6 +127,7 @@ situation):
 
 -   Must not make people act like Mean Girls
 
+
 **Colony Model**
 
 **Purpose:** compare DAOstack’s ability to facilitate what we’re looking for
@@ -138,6 +144,7 @@ Refine proposal based on Jeff’s feedback
 Coordinate with Colony to create documentation about this model
 
 Coordinate with colony to consider formalized collaboration
+
 
 **DAOStack model**
 
@@ -157,6 +164,7 @@ DAOstack, Christoph/devs
     other blockchain developers)
 
 -   Present to Jeff and David
+
 
 **Write white paper**
 
