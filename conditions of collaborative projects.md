@@ -2,7 +2,7 @@
 
 
 Prosperity need not be a scarce resource. The success of every company is a collaborative effort enabled by overlapping,
-cooperating, and competitive communities of stakeholders. Blockchains is
+cooperating, and competitive communities of stakeholders. Just as the success of every company is a product of interdependence, the prosperity won through this collaboration should be shared. Blockchains is
 therefore committed to serving these communities in all our products, services,
 and partnerships. To best serve these communities, we aim to empower individuals
 from these groups to participate in the governance of our organization, and we
