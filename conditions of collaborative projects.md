@@ -9,27 +9,27 @@ from these groups to participate in the governance of our organization, and we
 have developed a set of guiding principles to govern our relationships and joint
 projects with collaborative entities:
 
+-   Privacy is a civil right.
+
 -   Technological systems are first and foremost human systems, and as such
     should be built to best enable a freer, more open and fair future.
-
+    
 -   Individuals should have input in the development and design of systems, technological or
     otherwise, that affect them.
+   
+-   Individuals unsatisfied with the systems affecting them have the right to
+    exit them.
 
 -   Stakeholder access to verifiable information regarding partnerships and business practices is a prerequisite for democratic governance.
 
--   Individuals unsatisfied with the systems affecting them have the right to
-    exit them.
 
 -   We strive to create products and services that repair and support healthy
     ecosystems by sustainably promoting biodiversity and responsible energy
     usage.
 
--   Employees are entitled to market rate compensation.
+-   Employees are entitled to market-competetive compensation.
 
--   Employees must be empowered to design products created to add value to
-    consumers’ lives, not extract it from them.
-
--   Privacy is a human right.
+-   Ethical products and services are best created through partnership with consumers to identify and serve their needs.
 
 -   Individuals have the right to control access to their data.
 
