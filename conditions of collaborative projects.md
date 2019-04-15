@@ -45,4 +45,4 @@ democratic, transparent, and efficient alternatives to legacy systems, including
 but not limited to our financial, information, energy, corporate and political
 institutions. Together, we can incubate and implement technology to the mutual
 benefit of our companies, employees, and communities – both local and global –
-and create the blueprint for a brighter future.
+and create a blueprint for a brighter future.
