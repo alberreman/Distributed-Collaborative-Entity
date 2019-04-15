@@ -1,7 +1,7 @@
 <b> A proposed set of values for collaborative partnerships. </b>
 
 
-The success of every company is a collaborative effort enabled by overlapping,
+Prosperity need not be a scarce resource. The success of every company is a collaborative effort enabled by overlapping,
 cooperating, and competitive communities of stakeholders. Blockchains is
 therefore committed to serving these communities in all our products, services,
 and partnerships. To best serve these communities, we aim to empower individuals
@@ -39,8 +39,6 @@ projects with collaborative entities:
 
 -   Those with more power have an obligation to empower those with less.
 
--   Freedom is not a scarce resource, nor is prosperity: Winning need not be
-    zero sum.
 
 We seek to transform the relationship between businesses and the communities
 supporting them to best leverage our shared interests to realize a more
