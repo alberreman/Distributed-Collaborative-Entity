@@ -37,8 +37,6 @@ projects with collaborative entities:
 
 -   Technology should enable accessibility to people of diverse abilities.
 
--   Those with more power have an obligation to empower those with less.
-
 
 We seek to transform the relationship between businesses and the communities
 supporting them to best leverage our shared interests to realize a more
