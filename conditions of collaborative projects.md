@@ -15,9 +15,7 @@ projects with collaborative entities:
 -   Individuals should have input in the development and design of systems, technological or
     otherwise, that affect them.
 
--   Individuals have a right to accessible, verifiable information. In this
-    vein, we support storing all shared documents on cryptographically secured
-    immutable platforms, such as blockchains and IPFS.
+-   Stakeholder access to verifiable information regarding partnerships and business practices is a prerequisite for democratic governance.
 
 -   Individuals unsatisfied with the systems affecting them have the right to
     exit them.
