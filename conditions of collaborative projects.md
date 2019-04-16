@@ -27,7 +27,7 @@ projects with collaborative entities:
     ecosystems by sustainably promoting biodiversity and responsible energy
     usage.
 
--   Employees are entitled to market-competetive compensation.
+
 
 -   Ethical products and services are best created through partnership with consumers to identify and serve their needs.
 
