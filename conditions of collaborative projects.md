@@ -31,7 +31,7 @@ projects with collaborative entities:
 
 -   Ethical products and services are best created through partnership with consumers to identify and serve their needs.
 
--   Individuals have the right to control access to their data.*
+-   All use of data created by individuals' interaction with our products and services must be consensual and transparent.
 
 -   Technology should enable accessibility to people of diverse abilities.
 
@@ -45,4 +45,4 @@ institutions. Together, we can incubate and implement technology to the mutual
 benefit of our companies, employees, and communities – both local and global –
 and create a blueprint for a brighter future.
 
-*Need to work out what exactly this means. "individual data" is a misnomer. Consensual use of data is what we are getting at, and we need to better articulate what we mean when we say consensual. Agreeing to terms and conditions is not good enough
+
