@@ -28,11 +28,16 @@ managed), but policy-level decisions are made together.
 The image below is taken from [a
 slide](https://www.youtube.com/watch?v=F818QTn6_f8&feature=youtu.be) here.
 
+![image](https://user-images.githubusercontent.com/41302870/56592415-7e9dff80-659f-11e9-95d6-2c2fdd0f87f6.png)
+
+
 ![](media/2ab865735768f6104758d00d8151e04b.png)
 
 In this structure, there are a series of circles extending up the hierarchy,
 like pictured below. In this way, circles are a fusion of top-down and
 democratic decision-making.
+
+![image](https://user-images.githubusercontent.com/41302870/56592463-9ecdbe80-659f-11e9-9183-85066ee3621b.png)
 
 ![](media/ef48382b6325620325329736af1e5f75.png)
 
