@@ -1,9 +1,6 @@
 **Decision-Making Proposal**
 
-This proposal is inspired by a governance framework known as dynamic governance,
-or “sociocracy,” developed by the Dutch electrical engineer and
-entrepreneur Gerard Endenburg, based on work by activist/educators Betty Cadbury
-and Kees Boeke. Dynamic governance is an attempt to fuse the efficiency of
+This proposal is inspired by a governance framework known as dynamic governance, or “sociocracy,” developed by the Dutch electrical engineer and entrepreneur Gerard Endenburg, adapted from 19th century sociologist, philosophical, political thinkers Augustus Comte and Lester Frank Ward, and influenced by activist/educators Betty Cadbury and Kees Boeke. Dynamic. Dynamic governance is an attempt to fuse the efficiency of
 hierarchical structures and the inclusivity of horizontal ones in a consent and
 purpose-driven governance model. Components of sociocracy will work well within
 our existing DCE framework at the board level, and for employee-level
