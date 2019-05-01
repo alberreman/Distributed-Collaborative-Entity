@@ -38,13 +38,14 @@ managed), but policy-level decisions are made together.
 The image below is taken from [a
 slide](https://www.youtube.com/watch?v=F818QTn6_f8&feature=youtu.be) here.
 
-![image](media/22e05a3468fe785267ca824fda3cffdd.png)
+![image](https://user-images.githubusercontent.com/41302870/57024400-55a5ec00-6be9-11e9-9e22-03fa2fd98029.png)
 
 In this structure, there are a series of circles extending up the hierarchy,
 like pictured below. In this way, circles are a fusion of top-down and
 democratic decision-making.
 
-![image](media/1951c8e443be92955c49a3f33cd4f874.png)
+![image](https://user-images.githubusercontent.com/41302870/57024436-6e160680-6be9-11e9-89dc-d801847606a0.png)
+
 
 Policies may be crafted in the circle or derived elsewhere and decided in the
 circle. The process by which a circle would propose a policy together is listed
@@ -102,9 +103,14 @@ same person (e.g., if six managers report to one VP, there would be a 13-person
 circle around that VP), or a complicated org chart– though in the latter case
 you could just get creative with your circles.
 
-![Image result for double link sociocracy](media/fd7312cfc1529ac15961f35ab07a1d14.png)
+![image](https://user-images.githubusercontent.com/41302870/57024485-9271e300-6be9-11e9-9345-76e7c99032f3.png)
 
-![](media/943004af931e3a0f4f9cc924db817df9.png)
+Image 1: Circular organization. “Many Voices, One Song: Shared Power with Sociocracy” by Jennifer Ted Rau and Jerry Koch-Gonzalez. 
+
+![image](https://user-images.githubusercontent.com/41302870/57024514-a7e70d00-6be9-11e9-9d89-0d6cfc6d0165.png)
+
+Image 2: Double-link. From "Dynamic Governance" by Pamela Boyce Simms, published in Kosmos Journal.
+
 
 **Sociocracy, as Applied to Blockchains’ Governance Needs: A Brief Explanation**
 
