@@ -28,7 +28,7 @@ differing needs and abilities in terms of governance and profit-sharing.
 **­­­­­­­­­­­­­­­­First, a mental map of what a product-based sociocratic model
 might look like:**
 
-![](media/bf619433db77b98a63285f532b0cd994.png)
+![image](https://user-images.githubusercontent.com/41302870/57492838-48d36900-7277-11e9-9828-18ea80a1176e.png)
 
 As you can see, there would be a Blockchains Board of Directors, known in
 sociocracy as a “Mission Circle.” There would also be an “operations circle,”
@@ -39,9 +39,12 @@ operational autonomy whilst being value-aligned.
 **Now, to add a layer of complexity to this, I’ll layer in where the
 stakeholders might fit in:**
 
-![](media/9dcb8680190c8b04024c3d064379cb10.jpg)
 
-![](media/d1100873319f252e218dcfdc54b57ff1.jpg)
+![image](https://user-images.githubusercontent.com/41302870/57492855-5557c180-7277-11e9-8782-fb47d110778f.png)
+
+
+![image](https://user-images.githubusercontent.com/41302870/57492860-5ee12980-7277-11e9-98c5-907e38819024.png)
+
 
 As you can see, stakeholders exist within the boards of directors, or “mission
 circles.” This is true of any sociocratic model – outside advisors/stakeholders
@@ -129,9 +132,10 @@ there are four (no need to distinguish on basis of profit-sharing): partners,
 self-electing non-employee stakeholders, board-elected stakeholders, and
 employees.
 
-![](media/4f3f99c486a4e7f5990a46f53cfe5955.jpg)
+![image](https://user-images.githubusercontent.com/41302870/57492873-6c96af00-7277-11e9-9efe-442e0cd27fc2.png)
 
-![](media/32044538cf72c5d26c0396a45a6940fa.jpg)
+![image](https://user-images.githubusercontent.com/41302870/57492875-702a3600-7277-11e9-9586-09c1479aae90.png)
+
 
 **How Minimally Coordinated, Board-Represented and Voting Stakeholders
 Participate in Sociocratic Model**
