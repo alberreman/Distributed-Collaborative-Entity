@@ -17,21 +17,21 @@ serve as directors on the board.
 Partners:
 ---------
 
-Who are they?
+<b> Who are they? </b>
 
 >   The folks that we form business relationships with to create products.
 
-What are their interests?
+<b> What are their interests? </b>
 
 >   Whatever their company’s mission is, profits.
 
->   How do they enable the success of the company?
+>   <b> How do they enable the success of the company? </b>
 
 >   We partner with them because we think that they can help us
 >   create/distribute/promote a product. We wouldn’t partner with them if we
 >   didn’t think they could do that.
 
->   How will they be included in governance?
+>   <b> How will they be included in governance?</b>
 
 >   They might serve on the board of directors, if elected by voting
 >   stakeholders. If on the board, they obviously have voting power there.
@@ -48,11 +48,11 @@ non-membership class.
 Workers:
 --------
 
-Who are they?
+<b> Who are they? </b>
 
 >   Workers are the people employed by Blockchains.
 
->   What are their interests?
+>  <b> What are their interests? </b>
 
 >   They care about benefits, culture, compensation, and purpose. They want to
 >   be able to stand behind the products of the company. They have a stake in
@@ -60,13 +60,13 @@ Who are they?
 >   reputation in part depends on it – especially for the researchers,
 >   engineers, lawyers, finance, operations, and developers.
 
->   How do they enable the success of the company?
+>  <b> How do they enable the success of the company? </b>
 
 >   Their wide-reaching interests in the success of all aspects of the company,
 >   from profitability to compensation to the production of ethical technology
 >   make them the heart of the company.
 
->   How will they be included in governance?
+> <b>  How will they be included in governance? </b>
 
 >   They have voting and profit-sharing rights through Colony.
 
@@ -93,11 +93,11 @@ Who are they?
 Resident-Members:
 -----------------
 
-Who are they?
+<b> Who are they? </b>
 
 >   Residents are the people who live and own businesses within the city.
 
->   What are their interests?
+> <b>  What are their interests? </b>
 
 >   They have an interest in the safety of the community, in there being
 >   adequate services and opportunities. They care about economic policies,
@@ -107,14 +107,14 @@ Who are they?
 >   be mediated through internal governance but these lines have not yet been
 >   drawn.
 
->   How do they enable the success of the company?
+>  <b> How do they enable the success of the company? </b>
 
 >   Smart city residents offer an important sample to measure what is and is not
 >   socially, politically, and economically desirable. They will show the
 >   human/social/political/economic consequences of Blockchains products.
 >   Absolutely crucial to listen to this community.
 
->   How will they be included in governance*?*
+>  <b> How will they be included in governance*?* </b>
 
 >   They have voting and profit-sharing rights through Colony.
 
@@ -310,6 +310,8 @@ Organizational Mapping
 The Board of Directors remains the central authority on the company’s mission
 and finances. Product boards are under its authority.
 
+![image](https://user-images.githubusercontent.com/41302870/58189848-1dd21780-7c70-11e9-9097-89c8f3a40b9a.png)
+
 Illustrated to include non-product-specific components of the organization. It
 is probably that the workers on the on a particular product board will be the
 same individuals; the difference is that the product board includes product
@@ -319,7 +321,8 @@ multiple domains and on multiple projects, and cross-department collaboration
 would be the norm. Clear communication, mission alignment, and transparency in
 this organization are key to success.
 
-![](media/29004e94926469b4a325cec199d6f32e.png)
+![image](https://user-images.githubusercontent.com/41302870/58189756-efecd300-7c6f-11e9-8bae-155a030ebccd.png)
+
 
 Who are the Board Members?
 ==========================
