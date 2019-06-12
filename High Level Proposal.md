@@ -33,24 +33,7 @@ Blockchains should be governed by a set of stakeholder groups granted membership
 status[^1] to the DCE: worker-members, resident-members, product-participants,
 philosophers, and investors.
 
-[^1]: Let’s define our terms.
 
-    >   **Members and Member groups:** Member groups are the formalized
-    >   stakeholder groups with profit-sharing and voting rights who are
-    >   represented in Blockchains’ core governance circle. Members are the
-    >   individuals in those groups. Individuals may belong to multiple groups.
-
-    >   **Stakeholders:** Stakeholders are those who have the ability to affect
-    >   and be affected by the success of our company. Blockchains might have
-    >   many stakeholders, but not all of them will have a formalized place in
-    >   our company’s governance. For instance, the wild horses living on our
-    >   land and the activists advocating on their behalf certainly have a stake
-    >   in what we do here at Blockchains, but I will not propose that we give
-    >   wild horses or their advocates ownership of our company. It is not
-    >   practical that every stakeholder group be given formalized power at the
-    >   highest level of our organization’s governance, but it is confusing at
-    >   best and dishonest at worst to bestow stakeholder status only to those
-    >   who we allow membership.
 
 **Worker-members:** the people employed by blockchains
 
@@ -146,10 +129,6 @@ objects, then the proposal does not pass, and a new proposal must be drafted (or
 the old one can be revised). In this way, no one person can be overpowered by
 the will of the majority, no matter how unpopular they are.
 
-[^2]: To improve scalability of this consent-based model, many proposals would
-be drafted in smaller sub-circles (analogous to audit and risk committees), and
-only ratified by the larger core governance circle.
-
 Some decisions will be made entirely by consent at the core governance circle
 level. However, this particular issue requires the input from member groups.
 
@@ -176,10 +155,6 @@ much of the coordination within and between all groups[^3]. I will now provide
 an overview for or how each member group coordinates internally to distribute
 profit-shares or push forward proposals.
 
-[^3]: The investor group is the exception here, who will probably not use Colony
-software at all. Though, if we were to issue stock via a security token (to my
-knowledge we have no plans to do so), we could easily hook that smart contract
-voting architecture to our Colony network.
 
 **Product-Participant Member Group**
 
@@ -264,10 +239,6 @@ structure allows each product-participant subgroup to earn reputation in ways
 specifically geared to incentivize desired consumer behavior (promoting
 responsible money management or energy efficiency, for example).
 
-[^4]: For product-participants, distribution of profit-shares would be
-determined by reputation according to Colony’s mechanism for revenue-sharing.
-Your share is proportionate to the amount of reputation you have relative to the
-overall reputation in the colony/domain.
 
 *Obscuring Complexity*
 
@@ -290,10 +261,6 @@ allows for complex communication and negotiation, opening up methods for
 participation in governance to extend far beyond voting. For these groups, I
 propose a combination of Colony’s software and dynamic governance.
 
-[^5]: This organization will be founded by us/our parent company, but will then
-be independent. If it chooses not to adopt dynamic governance, then it can
-borrow the governance processes and software of the product-participants and
-resident-members, and this will not affect core governance.
 
 *Decision-making*
 
@@ -364,12 +331,6 @@ group. At this time, the highest circle of the philosopher member group will be
 responsible for selecting its representative, via the sociocratic election
 process.
 
-[^6]: To increase the possibility of a lower-ranking worker/philosopher making
-it to the core governance circle, we could implement an additional layer to the
-nomination process at this level, whereby people outside this higher-level
-circle could propose a nominee from any department for consideration by the
-circle.
-
 But I said that these groups would be governed by a combination of dynamic
 governance and Colony’s software, and I haven’t mentioned Colony at all. All
 workers and philosophers will also have a reputation-based voting system to
@@ -421,11 +382,6 @@ offered go to a smart contract wallet, rather than a fund controlled by the
 council, and that the DCE and smart city governance be kept as separate as
 possible. Money in this wallet would then be allocated according to member-wide
 Budget Box vote, on a one-person-one-vote[^7] basis.
-
-[^7]: Without identity solutions this can be a challenge, but we can either
-integrate an identity software, or we can create a task where the person must
-provide proof of identity to gain reputation (but where everyone is given the
-same amount of reputation for completing the task).
 
 I see no benefit of a reputation-weighted voting system for resident-members;
 attempting to incentivize people with more voting power has too many complicated
@@ -571,3 +527,56 @@ build it for me. So, these are my asks to executive leadership:
 -   I would like to collaborate with a consulting group and a Blockchains lawyer
     and/or finance person to learn more about FairShares Commons incorporation
     in Delaware to make this a legal reality.
+   ______________________________________ 
+ <b>  END NOTES </b>
+    
+    [^1]: Let’s define our terms.
+
+      **Members and Member groups:** Member groups are the formalized
+      stakeholder groups with profit-sharing and voting rights who are
+       represented in Blockchains’ core governance circle. Members are the
+      individuals in those groups. Individuals may belong to multiple groups.
+
+      **Stakeholders:** Stakeholders are those who have the ability to affect
+      and be affected by the success of our company. Blockchains might have
+      many stakeholders, but not all of them will have a formalized place in
+      our company’s governance. For instance, the wild horses living on our
+      land and the activists advocating on their behalf certainly have a stake
+      in what we do here at Blockchains, but I will not propose that we give
+      wild horses or their advocates ownership of our company. It is not
+      practical that every stakeholder group be given formalized power at the
+      highest level of our organization’s governance, but it is confusing at
+      best and dishonest at worst to bestow stakeholder status only to those
+      who we allow membership.
+    
+    [^2]: To improve scalability of this consent-based model, many proposals would
+    be drafted in smaller sub-circles (analogous to audit and risk committees), and
+    only ratified by the larger core governance circle.
+
+    [^3]: The investor group is the exception here, who will probably not use Colony
+    software at all. Though, if we were to issue stock via a security token (to my
+    knowledge we have no plans to do so), we could easily hook that smart contract
+    voting architecture to our Colony network.
+
+    [^4]: For product-participants, distribution of profit-shares would be
+    determined by reputation according to Colony’s mechanism for revenue-sharing.
+    Your share is proportionate to the amount of reputation you have relative to the
+    overall reputation in the colony/domain.
+
+    [^5]: This organization will be founded by us/our parent company, but will then
+    be independent. If it chooses not to adopt dynamic governance, then it can
+    borrow the governance processes and software of the product-participants and
+    resident-members, and this will not affect core governance.
+
+    [^6]: To increase the possibility of a lower-ranking worker/philosopher making
+    it to the core governance circle, we could implement an additional layer to the
+    nomination process at this level, whereby people outside this higher-level
+    circle could propose a nominee from any department for consideration by the
+    circle.
+
+
+    [^7]: Without identity solutions this can be a challenge, but we can either
+    integrate an identity software, or we can create a task where the person must
+    provide proof of identity to gain reputation (but where everyone is given the
+    same amount of reputation for completing the task).
+
