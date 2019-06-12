@@ -26,7 +26,7 @@ in the trees, without offering up a vision of the forest. This is my attempt to
 communicate the big picture. 
 
 *This is my proposal:*
-
+___________________________________________
 **Member Groups**
 
 Blockchains should be governed by a set of stakeholder groups granted membership
@@ -57,6 +57,7 @@ smart city
 At the time of incorporation, it is unlikely that all these groups will exist. I
 will conclude this post with a section about bootstrapping and adding additional
 groups as they come into existence.
+___________________________________________
 
 **Coordination Between Member Groups**
 
@@ -145,6 +146,7 @@ overall budget.
 I propose that profit-sharing allocations be decided in this way, and not by a
 predetermined percentage, as the size and significance of each group will change
 over time.
+____________________________________________________
 
 **Internal Member Group Coordination and Governance**
 
@@ -435,6 +437,7 @@ would need to use some kind of oracle.
 | Product-participants      | yes                                | Yes, but only the users of the product being governed by that circle | yes                      | yes                                              | no                 | Yes                                                    | yes                                  | yes                               |
 | Investors                 | yes                                | no                                                                   | no                       | no                                               | no                 | Maybe                                                  | no                                   | no                                |
 
+________________________________________________________________
 **Conflict Resolution within Member Groups**
 
 I was recently asked, “What if someone in the worker member group is not being
@@ -453,6 +456,7 @@ I would suggest hiring a professional in nonviolent communication full time –
 though really, if we are implementing dynamic governance, then we should already
 have one on staff and this should not be an issue.
 
+_________________________________________________
 **Bootstrapping**
 
 I propose the DCE will begin with worker-members as the sole voting population,
@@ -498,6 +502,7 @@ be made within a given stakeholder group, except in the case of
 product-participants: By default, new product-participant subgroups are added
 when new products come to market.
 
+__________________________________________________
 **Conclusion**
 
 I thought this was going to be a quick two-page high-level overview, when in
