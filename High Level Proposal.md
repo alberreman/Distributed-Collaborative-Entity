@@ -23,7 +23,7 @@ feign to have all of the answers, I believe I have enough to get started.
 I will not be able to express all of the details in this post, but in my
 internal communications I have come to realize that I have spent a lot of time
 in the trees, without offering up a vision of the forest. This is my attempt to
-communicate the big picture. *This is what I am arguing for:*
+communicate the big picture. 
 
 *This is my proposal:*
 
