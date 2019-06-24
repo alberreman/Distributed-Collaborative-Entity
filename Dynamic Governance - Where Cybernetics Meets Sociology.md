@@ -83,7 +83,7 @@ might have staff members on level 1 of the hierarchy, managers on level 2, and a
 CEO and board on level 3.
 
 **Example: Tiered Sociocratic Circles**
-![graph](https://user-images.githubusercontent.com/49038722/60052083-48f1c180-9689-11e9-9ab8-0f723c08882f.png)
+![graph2](https://user-images.githubusercontent.com/49038722/60052486-4348ab80-968a-11e9-9453-4a8dea3106e7.png)
 
 This is where the principle of double-linking becomes important. Each circle has
 an elected operation leader who is also a full member of the circle above it.
