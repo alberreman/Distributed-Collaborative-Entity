@@ -82,6 +82,9 @@ vertical element: Each circle functions on a different level. For example, you
 might have staff members on level 1 of the hierarchy, managers on level 2, and a
 CEO and board on level 3.
 
+![graph](https://user-images.githubusercontent.com/49038722/60052083-48f1c180-9689-11e9-9ab8-0f723c08882f.png)
+Sample sociocratic tiers of overlapping cirlces
+
 This is where the principle of double-linking becomes important. Each circle has
 an elected operation leader who is also a full member of the circle above it.
 The lower circle also elects one of its members to represent its interests to
