@@ -61,7 +61,7 @@ analogies from electronic and biological processes to create the three primary
 components of dynamic governance and implement them at Endenburg
 Electrotechniek.
 
-**Principles of Dynamic Governance**
+                      **Principles of Dynamic Governance**
 
 The main principles of dynamic governance are known as consent, circles, and
 double-linking. In contrast to consensus, where everyone must agree on a
