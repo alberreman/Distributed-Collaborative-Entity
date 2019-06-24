@@ -16,8 +16,9 @@ stakeholders.
 ![1dopd](https://user-images.githubusercontent.com/41302870/60037141-ab38cb00-9665-11e9-9249-6069bff0ed5d.PNG)
 
 ![2dopd](https://user-images.githubusercontent.com/41302870/60037138-ab38cb00-9665-11e9-82b6-5f47de3a2f68.PNG)
-![3dopd](https://user-images.githubusercontent.com/41302870/60037137-ab38cb00-9665-11e9-97f0-622aa47e0ce6.PNG)
-![4dopd](https://user-images.githubusercontent.com/41302870/60037143-abd16180-9665-11e9-830c-e50d25cfefad.PNG)
+![2dopd](https://user-images.githubusercontent.com/41302870/60042851-8186a080-9673-11e9-9164-348b2e15231e.PNG)
+![3dopd](https://user-images.githubusercontent.com/41302870/60042852-8186a080-9673-11e9-80a9-af5249c7a51c.PNG)
+
 ![5dopd](https://user-images.githubusercontent.com/41302870/60037136-ab38cb00-9665-11e9-9ab5-65cc73be7271.PNG)
 ![6dopd](https://user-images.githubusercontent.com/41302870/60037135-ab38cb00-9665-11e9-8796-e21290cea68c.PNG)
 ![7dopd](https://user-images.githubusercontent.com/41302870/60037148-abd16180-9665-11e9-8e15-bd3258d9cae2.PNG)
