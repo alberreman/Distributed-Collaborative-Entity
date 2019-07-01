@@ -47,4 +47,6 @@ particular importance. Though, I am told by people wiser and more educated than
 myself that even if a signer were to exit, there are circumstances where a
 former signer could still be held liable.
 
+My other beef with multisigs may be less universal, though it’s still relevant across many voting apps, and is definitely true in Aragon: The damn things will not take no for an answer. Once the minimum support threshold and quorum have been reached, BAM, it’s over, even if the quorum was wicked low and the timer’s got a year left. This alone is highly irritating for the reasons I described above, but it’s even worse because “no” responses do not hold the same power. Even if you get 100% voter turnout and every last one of them votes “no,” the vote stays open, just in case enough people change their minds before the end of the vote. Call me a snowflake, but the asymmetry in the power between “yes,” and “no” responses is socially untenable in 2019.  
+
 Tell me, are my concerns bullshit? Plz and thank you.
