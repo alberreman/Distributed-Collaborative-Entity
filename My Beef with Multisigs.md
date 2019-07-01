@@ -1,6 +1,7 @@
 **My Beef with Multisigs**
 
-![closeup photo of cow](media/4cf27d4ea3773642e1136e2ff11e9c46.jpg)
+![image](https://user-images.githubusercontent.com/41302870/60468574-f0816d80-9c0e-11e9-9559-69c56c674c6f.png)
+
 
 My biggest beef with multisigs in general is that individuals cannot remove
 themselves, unless specifically given token-burning permissions. This violates
