@@ -1,9 +1,10 @@
+An exerpt from a longer draft about DAOs
+
 **My Beef with Multisigs**
 
 ![image](https://user-images.githubusercontent.com/41302870/60468574-f0816d80-9c0e-11e9-9559-69c56c674c6f.png)
 
-
-My biggest beef with multisigs in general is that individuals cannot remove
+I'll cut straight to the chase. My Big Beef with multisigs is that individuals cannot remove
 themselves, unless specifically given token-burning permissions. This violates
 an individual’s right to freedoms of movement, exit, and autonomy, which I think
 violates the ethos of the crypto community. More than a theoretical objection,
