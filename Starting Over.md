@@ -43,4 +43,4 @@ Education-focused Nonprofit: I believe that the reasoning here was because a non
 Investors: Investors are a self-explanatory group, but I have heard you say that they should either receive no voting power, or limited voting power. The reasoning here, I believe, is that investors represent Wall Street, Big Money, and financial interests, and you spent decades learning as a lawyer that these people often do not have the best interest of people in mind. 
  However, I believe that you see them as a necessary evil to get the smart city and other projects built quickly.
 
-**It is unclear if the groups other than investors are expected to buy shares, or if they are granted them. 
+**It is unclear if the groups other than investors are expected to buy voting and profit shares, or if they are granted them. This would seem to be important in determining whether or not they are securities.
